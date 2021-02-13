@@ -45,6 +45,9 @@
   <summary>:zap: Projects</summary>
   <img align="left" alt="PixelMOTD" width="300px" src="https://i.imgur.com/jrrrOYL.png" />
   <img align="left" alt="RigoxBlocker" width="300px" src="https://i.imgur.com/LkUA1j7.jpg"/>
+  <img align="left" alt="RigoxRFTB" width="300px" src="https://i.imgur.com/OCNLyP3.png"/>
+  <img align="left" alt="RigoxDevelopment" width="300px" src="https://i.imgur.com/jIiCxRx.png"/>
+  <img align="left" alt="RigoxAnimationStudios" width="300px" src="https://i.imgur.com/cTpY9Qc.png"/>
 </details>
 
 [website]: https://spigotmc.org/members/xxrogerxx.163416/
