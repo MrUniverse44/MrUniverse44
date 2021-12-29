@@ -49,18 +49,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrUniverse44&repo=PixelSkScoreboard&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/MrUniverse44/GuardianSkyWars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrUniverse44&repo=GuardianSkyWars&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/MrUniverse44/GuardianLIB">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrUniverse44&repo=GuardianLIB&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/MrUniverse44/CookieFriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrUniverse44&repo=CookieFriends&theme=tokyonight" />
-</a>
-
 <a href="https://github.com/MrUniverse44/PixelMOTD">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrUniverse44&repo=PixelMOTD&theme=tokyonight" />
 </a>
